@@ -1,0 +1,28 @@
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\bin\Debug\netcoreapp3.1\text input.exe
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\bin\Debug\netcoreapp3.1\text input.deps.json
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\bin\Debug\netcoreapp3.1\text input.runtimeconfig.json
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\bin\Debug\netcoreapp3.1\text input.runtimeconfig.dev.json
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\bin\Debug\netcoreapp3.1\text input.dll
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\bin\Debug\netcoreapp3.1\text input.pdb
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\obj\Debug\netcoreapp3.1\text input.csproj.AssemblyReference.cache
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\obj\Debug\netcoreapp3.1\text input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\obj\Debug\netcoreapp3.1\text input.AssemblyInfoInputs.cache
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\obj\Debug\netcoreapp3.1\text input.AssemblyInfo.cs
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\obj\Debug\netcoreapp3.1\text input.csproj.CoreCompileInputs.cache
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\obj\Debug\netcoreapp3.1\text input.dll
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\obj\Debug\netcoreapp3.1\text input.pdb
+C:\Users\Vova\Desktop\Console Application C#\text input\text input\obj\Debug\netcoreapp3.1\text input.genruntimeconfig.cache
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\bin\Debug\netcoreapp3.1\text input.exe
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\bin\Debug\netcoreapp3.1\text input.deps.json
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\bin\Debug\netcoreapp3.1\text input.runtimeconfig.json
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\bin\Debug\netcoreapp3.1\text input.runtimeconfig.dev.json
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\bin\Debug\netcoreapp3.1\text input.dll
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\bin\Debug\netcoreapp3.1\text input.pdb
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\obj\Debug\netcoreapp3.1\text input.csproj.AssemblyReference.cache
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\obj\Debug\netcoreapp3.1\text input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\obj\Debug\netcoreapp3.1\text input.AssemblyInfoInputs.cache
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\obj\Debug\netcoreapp3.1\text input.AssemblyInfo.cs
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\obj\Debug\netcoreapp3.1\text input.csproj.CoreCompileInputs.cache
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\obj\Debug\netcoreapp3.1\text input.dll
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\obj\Debug\netcoreapp3.1\text input.pdb
+C:\Users\Vova\Desktop\Occurence_Count C#\text input\text input\obj\Debug\netcoreapp3.1\text input.genruntimeconfig.cache
